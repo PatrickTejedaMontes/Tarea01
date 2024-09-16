@@ -1,0 +1,7 @@
+C:\Users\patri\source\repos\Tarea01\Problema_03\bin\Debug\Problema_03.exe.config
+C:\Users\patri\source\repos\Tarea01\Problema_03\bin\Debug\Problema_03.exe
+C:\Users\patri\source\repos\Tarea01\Problema_03\bin\Debug\Problema_03.pdb
+C:\Users\patri\source\repos\Tarea01\Problema_03\obj\Debug\Problema_03.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\Tarea01\Problema_03\obj\Debug\Problema_03.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Tarea01\Problema_03\obj\Debug\Problema_03.exe
+C:\Users\patri\source\repos\Tarea01\Problema_03\obj\Debug\Problema_03.pdb

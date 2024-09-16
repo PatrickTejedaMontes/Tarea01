@@ -1,0 +1,7 @@
+C:\Users\patri\source\repos\Tarea01\Tarea01\bin\Debug\Tarea01.exe.config
+C:\Users\patri\source\repos\Tarea01\Tarea01\bin\Debug\Tarea01.exe
+C:\Users\patri\source\repos\Tarea01\Tarea01\bin\Debug\Tarea01.pdb
+C:\Users\patri\source\repos\Tarea01\Tarea01\obj\Debug\Tarea01.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\Tarea01\Tarea01\obj\Debug\Tarea01.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Tarea01\Tarea01\obj\Debug\Tarea01.exe
+C:\Users\patri\source\repos\Tarea01\Tarea01\obj\Debug\Tarea01.pdb
